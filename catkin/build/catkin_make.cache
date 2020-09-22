@@ -1,0 +1,2 @@
+gazebo_ros
+-DCATKIN_DEVEL_PREFIX=/home/hayden/Documents/Robotics/gazebo-sim/catkin/devel -DCMAKE_INSTALL_PREFIX=/home/hayden/Documents/Robotics/gazebo-sim/catkin/install -G Unix Makefiles

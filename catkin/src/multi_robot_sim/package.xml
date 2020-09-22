@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>multi_robot_sim</name>
+  <version>0.0.0</version>
+  <description>This is the main package that the simulation in gazebo will run from</description>
+
+  <author email="hrsather@mymail.mines.edu">Hayden Sather</author>
+  <maintainer email="hrsather@mymail.mines.edu">Hayden Sather</maintainer>
+
+  <license>TODO</license>
+
+  <url type="website">https://github.com/hrsatherMINES/gazebo-sim</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>rospy</build_depend>
+  <build_export_depend>rospy</build_export_depend>
+  <exec_depend>rospy</exec_depend>
+
+  <!-- The export tag contains other, unspecified, tags -->
+  <export>
+    <!-- Other tools can request additional information be placed here -->
+  </export>
+</package>
